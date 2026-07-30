@@ -7,6 +7,7 @@ import { computed, ref } from 'vue';
         "assets/images/screenshots/shaded_bench.png",
         "assets/images/screenshots/icymountain.png",
         "assets/images/screenshots/rainbow-trees.png"
+        "assets/images/screenshots/ancient_jungle.png"
     ];
     const position = ref([0, 1, 2]);
 
